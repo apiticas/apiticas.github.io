@@ -1,1 +1,7 @@
-{"name":"Apiticas Website ","tagline":"- the test one -","body":"### Welcome to **Apiticas** Website ###\r\n\r\n***My Content Here***\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "GitHub Website ",
+  "tagline": "- tagline -",
+  "body": "### Welcome ###\r\n\r\n***Content Here***\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
